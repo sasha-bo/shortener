@@ -1,0 +1,20 @@
+{
+    "name": "sasha-bo/shortener",
+    "version": "1.0",
+    "description": "Shortens plain text or html to the $length, preventing braking words and tags.",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": {
+            "SashaBo\\Shortener\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sasha Bo"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
