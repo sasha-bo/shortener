@@ -1,5 +1,5 @@
 {
-    "name": "sasha-bo/shortener",
+    "name": "sashabo/shortener",
     "version": "1.0",
     "description": "Shortens plain text or html to the $length, preventing braking words and tags.",
     "type": "library",
