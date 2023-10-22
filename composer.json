@@ -16,6 +16,6 @@
     ],
     "require": {
         "php": ">=8.1",
-        "sashabo/iterable-string": "^1.0"
+        "sashabo/iterable-string": ">=1.0"
     }
 }

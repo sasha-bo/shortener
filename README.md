@@ -69,3 +69,9 @@ As you see, no closing tags are lost. If your source string is valid HTML,
 you will get valid HTML too.
 
 HtmlShortener understands &amp;xxx; symbols and count them as 1.
+
+### Symfony bundle
+
+If you use Symfony 6+, try 
+[sashabo/shortener-bundle](https://packagist.org/packages/sashabo/shortener-bundle), 
+it provides shorten_text and shorten_html twig filters.
